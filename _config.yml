@@ -33,7 +33,7 @@ facebook_url:  https://www.facebook.com/Amit2020rocks
 discus_identifier: disqus_FU5CWK5kaj
 
 # Newsletter
-mailchimp: https://chimpstatic.com/mcjs-connected/js/users/14b73cd18812e4dda38f8fb54/233dde2c03e90d3315913ad59.js id=ffbea574be
+mailchimp: chimpstatic.com/mcjs-connected/js/users/14b73cd18812e4dda38f8fb54/233dde2c03e90d3315913ad59.js id=ffbea574be
 
 # Tracker
 analytics:
