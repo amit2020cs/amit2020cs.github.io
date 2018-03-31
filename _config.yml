@@ -1,6 +1,6 @@
 logo: # add logo name
 title: Voyage 
-comments:true
+comments: true
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -30,10 +30,10 @@ pinterest_url: https://in.pinterest.com/amit2020cs/
 facebook_url:  https://www.facebook.com/Amit2020rocks
 
 # Disqus
-discus_identifier:FU5CWK5kaj
+discus_identifier:@disqus_FU5CWK5kaj
 
 # Newsletter
-mailchimp:ffbea574be
+mailchimp: ffbea574be
 
 # Tracker
 analytics:
