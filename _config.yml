@@ -17,7 +17,7 @@ banner-desc:
 # Author settings
 author-pic: amit.jpg 
 author-name: Amit Singh
-about-author: Developer
+about-author: Software Engineer
 email: amit2020cs@gmail.com
 phone: 8630684627 
 website: https://amit2020cs@github.io
@@ -27,6 +27,7 @@ google_url:    https://plus.google.com/u/1/106448500629945231088
 twitter_url:   https://twitter.com/amit2020cs
 instagram_url: https://www.instagram.com/amit2020cs/
 pinterest_url: https://in.pinterest.com/amit2020cs/
+linkedin_url:  https://www.linkedin.com/in/amit2020cs/
 facebook_url:  https://www.facebook.com/amit2020cs
 
 # Disqus
